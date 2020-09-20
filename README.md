@@ -1,1 +1,1 @@
-# 1-year-college-Web-Razvoj
+# Basic HTML/CSS pages 
